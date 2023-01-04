@@ -1,0 +1,52 @@
+body p {
+    margin:0;
+}
+
+/*-------------------------------*/
+
+.main-1 .container {
+    background-color:black;
+    width:375px;
+    height:670px;
+}
+
+.main-1 .result {
+    width:100%;
+    float:right;
+    height:200px;
+
+}
+
+.main-1 .container p {
+    float:right;
+    font-size:20px;
+    color:white;
+    padding-top:20px;
+
+}
+
+.main-1 .btn-wrapper {
+}
+
+.main-1 .btn {
+    float:left;
+    width:25%;
+    height:93.75px;
+    color:white;
+    font-size:30px ;
+    border-radius:10%;
+} 
+
+.main-1 .btn:active {
+    background-color:white;
+}
+
+.main-1 .btnNum {
+    background-color: dimgrey;
+
+}
+
+.main-1 .btnOpe {
+    background-color: orange;
+
+}
